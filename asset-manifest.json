@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/chitrank0614.github.io/contact-manager-reactlearn/static/css/main.afd7172b.chunk.css",
-    "main.js": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/main.c401104c.chunk.js",
-    "main.js.map": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/main.c401104c.chunk.js.map",
+    "main.js": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/main.ef48e4d2.chunk.js",
+    "main.js.map": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/main.ef48e4d2.chunk.js.map",
     "runtime-main.js": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/runtime-main.5c2a3503.js",
     "runtime-main.js.map": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/runtime-main.5c2a3503.js.map",
     "static/css/2.150d169a.chunk.css": "/chitrank0614.github.io/contact-manager-reactlearn/static/css/2.150d169a.chunk.css",
-    "static/js/2.18d1dc19.chunk.js": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/2.18d1dc19.chunk.js",
-    "static/js/2.18d1dc19.chunk.js.map": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/2.18d1dc19.chunk.js.map",
+    "static/js/2.973e14dc.chunk.js": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/2.973e14dc.chunk.js",
+    "static/js/2.973e14dc.chunk.js.map": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/2.973e14dc.chunk.js.map",
     "static/js/3.e7b3532a.chunk.js": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/3.e7b3532a.chunk.js",
     "static/js/3.e7b3532a.chunk.js.map": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/3.e7b3532a.chunk.js.map",
     "index.html": "/chitrank0614.github.io/contact-manager-reactlearn/index.html",
     "static/css/2.150d169a.chunk.css.map": "/chitrank0614.github.io/contact-manager-reactlearn/static/css/2.150d169a.chunk.css.map",
     "static/css/main.afd7172b.chunk.css.map": "/chitrank0614.github.io/contact-manager-reactlearn/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.18d1dc19.chunk.js.LICENSE.txt": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/2.18d1dc19.chunk.js.LICENSE.txt"
+    "static/js/2.973e14dc.chunk.js.LICENSE.txt": "/chitrank0614.github.io/contact-manager-reactlearn/static/js/2.973e14dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5c2a3503.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.18d1dc19.chunk.js",
+    "static/js/2.973e14dc.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.c401104c.chunk.js"
+    "static/js/main.ef48e4d2.chunk.js"
   ]
 }
